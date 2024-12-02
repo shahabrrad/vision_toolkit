@@ -1,9 +1,9 @@
-# Homework 1-2: Computer Vision
+# Image alignment using GD from grayscale channels to RGB color
 
 ## Project Overview
-This project contains starter code for Homework 1-2, which involves aligning three channels of an image inorder to make an RGB image.
+This project involves aligning three channels of an image inorder to make an RGB image.
 
-We take the digitized Prokudin-Gorskii glass plate images and automatically produce a color image with as few visual artifacts as possible. To do this, we extract the three color channel images, place them on top of each other, and align them so that they form a single RGB color image automatically
+We take the digitized Prokudin-Gorskii glass plate images and automatically produce a color image with as few visual artifacts as possible. To do this, we extract the three color channel images, place them on top of each other, and align them so that they form a single RGB color image automatically. This version of the code uses gradient descent to find the best alignment, as opposed to the other image alignment method that uses exhaustive search.
 
 ## File Structure
 - `main.py`: The main script to run the project.
