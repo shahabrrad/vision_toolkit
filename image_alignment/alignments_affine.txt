@@ -1,0 +1,49 @@
+all
+data/1.jpg ncc Best score found:  0.4483470320701599
+data/1.jpg ncc Green channel used as the base for alignment of image
+data/1.jpg ncc Blue channel translation:  0.6672036647796631 -6.286681652069092
+data/1.jpg ncc Red channel translation:  -0.7265063524246216 2.7087414264678955
+data/2.jpg ncc Best score found:  0.40109801292419434
+data/2.jpg ncc Green channel used as the base for alignment of image
+data/2.jpg ncc Blue channel translation:  -1.4171565771102905 -1.6419824361801147
+data/2.jpg ncc Red channel translation:  -0.08874724805355072 0.17825087904930115
+data/3.jpg ncc Best score found:  0.6371796727180481
+data/3.jpg ncc Green channel used as the base for alignment of image
+data/3.jpg ncc Blue channel translation:  -1.3980985879898071 -1.3534611463546753
+data/3.jpg ncc Red channel translation:  1.3375879526138306 -0.3886605501174927
+data/4.jpg ncc Best score found:  0.4913821816444397
+data/4.jpg ncc Green channel used as the base for alignment of image
+data/4.jpg ncc Blue channel translation:  0.020935850217938423 9.782689094543457
+data/4.jpg ncc Red channel translation:  0.18273265659809113 3.965935707092285
+data/5.jpg ncc Best score found:  0.4996657371520996
+data/5.jpg ncc Green channel used as the base for alignment of image
+data/5.jpg ncc Blue channel translation:  0.5019327998161316 0.42441678047180176
+data/5.jpg ncc Red channel translation:  -0.27655577659606934 5.650742530822754
+data/6.jpg ncc Best score found:  0.6691616773605347
+data/6.jpg ncc Green channel used as the base for alignment of image
+data/6.jpg ncc Blue channel translation:  -0.7542240023612976 15.758463859558105
+data/6.jpg ncc Red channel translation:  1.1356878280639648 6.177966117858887
+data/1.jpg mse Best score found:  0.09442581236362457
+data/1.jpg mse Green channel used as the base for alignment of image
+data/1.jpg mse Blue channel translation:  -1.4435880184173584 -4.477965831756592
+data/1.jpg mse Red channel translation:  -1.1695549488067627 1.639445185661316
+data/2.jpg mse Best score found:  0.0718541294336319
+data/2.jpg mse Green channel used as the base for alignment of image
+data/2.jpg mse Blue channel translation:  -1.4278178215026855 -1.619230031967163
+data/2.jpg mse Red channel translation:  -0.13436400890350342 0.2049945592880249
+data/3.jpg mse Best score found:  0.07015208899974823
+data/3.jpg mse Green channel used as the base for alignment of image
+data/3.jpg mse Blue channel translation:  -1.3880679607391357 -1.3356106281280518
+data/3.jpg mse Red channel translation:  2.1539371013641357 1.41397225856781
+data/4.jpg mse Best score found:  0.07134754955768585
+data/4.jpg mse Green channel used as the base for alignment of image
+data/4.jpg mse Blue channel translation:  0.17922140657901764 9.691125869750977
+data/4.jpg mse Red channel translation:  0.22028298676013947 3.8649654388427734
+data/5.jpg mse Best score found:  0.0751057118177414
+data/5.jpg mse Green channel used as the base for alignment of image
+data/5.jpg mse Blue channel translation:  0.4546068608760834 0.43397602438926697
+data/5.jpg mse Red channel translation:  -0.41112634539604187 2.5041375160217285
+data/6.jpg mse Best score found:  0.07509138435125351
+data/6.jpg mse Green channel used as the base for alignment of image
+data/6.jpg mse Blue channel translation:  -1.2900722026824951 16.195772171020508
+data/6.jpg mse Red channel translation:  0.7173252105712891 5.823437213897705
