@@ -1,0 +1,72 @@
+data/1.jpg ncc Best score found:  tensor(-1.5916)
+data/1.jpg ncc Green channel used as the base for alignment of image
+data/1.jpg ncc Blue channel shifted by:  (-5, 1)
+data/1.jpg ncc Red channel shifted by:  (3, -1)
+data/2.jpg ncc Best score found:  tensor(-1.5388)
+data/2.jpg ncc Green channel used as the base for alignment of image
+data/2.jpg ncc Blue channel shifted by:  (-2, 0)
+data/2.jpg ncc Red channel shifted by:  (0, 0)
+data/3.jpg ncc Best score found:  tensor(-1.3607)
+data/3.jpg ncc Red channel used as the base for alignment of image
+data/3.jpg ncc Blue channel shifted by:  (1, -3)
+data/3.jpg ncc Green channel shifted by:  (-12, -1)
+data/4.jpg ncc Best score found:  tensor(-1.6737)
+data/4.jpg ncc Blue channel used as the base for alignment of image
+data/4.jpg ncc Green channel shifted by:  (-10, 0)
+data/4.jpg ncc Red channel shifted by:  (-6, 0)
+data/5.jpg ncc Best score found:  tensor(-1.4534)
+data/5.jpg ncc Green channel used as the base for alignment of image
+data/5.jpg ncc Blue channel shifted by:  (0, 1)
+data/5.jpg ncc Red channel shifted by:  (6, 0)
+data/6.jpg ncc Best score found:  tensor(-1.3098)
+data/6.jpg ncc Green channel used as the base for alignment of image
+data/6.jpg ncc Blue channel shifted by:  (15, -1)
+data/6.jpg ncc Red channel shifted by:  (6, 1)
+data/1.jpg mse Best score found:  tensor(0.0887)
+data/1.jpg mse Green channel used as the base for alignment of image
+data/1.jpg mse Blue channel shifted by:  (-5, 1)
+data/1.jpg mse Red channel shifted by:  (3, -1)
+data/2.jpg mse Best score found:  tensor(0.0833)
+data/2.jpg mse Green channel used as the base for alignment of image
+data/2.jpg mse Blue channel shifted by:  (-2, 0)
+data/2.jpg mse Red channel shifted by:  (0, 0)
+data/3.jpg mse Best score found:  tensor(0.0840)
+data/3.jpg mse Green channel used as the base for alignment of image
+data/3.jpg mse Blue channel shifted by:  (9, -1)
+data/3.jpg mse Red channel shifted by:  (4, 1)
+data/4.jpg mse Best score found:  tensor(0.0576)
+data/4.jpg mse Blue channel used as the base for alignment of image
+data/4.jpg mse Green channel shifted by:  (-10, 0)
+data/4.jpg mse Red channel shifted by:  (-6, 0)
+data/5.jpg mse Best score found:  tensor(0.0803)
+data/5.jpg mse Green channel used as the base for alignment of image
+data/5.jpg mse Blue channel shifted by:  (0, 0)
+data/5.jpg mse Red channel shifted by:  (6, 0)
+data/6.jpg mse Best score found:  tensor(0.0790)
+data/6.jpg mse Green channel used as the base for alignment of image
+data/6.jpg mse Blue channel shifted by:  (15, -1)
+data/6.jpg mse Red channel shifted by:  (6, 1)
+data/1.jpg ssim Best score found:  -1.3221144180889408
+data/1.jpg ssim Green channel used as the base for alignment of image
+data/1.jpg ssim Blue channel shifted by:  (-4, -2)
+data/1.jpg ssim Red channel shifted by:  (3, -1)
+data/2.jpg ssim Best score found:  -1.4691715998617771
+data/2.jpg ssim Green channel used as the base for alignment of image
+data/2.jpg ssim Blue channel shifted by:  (-2, -2)
+data/2.jpg ssim Red channel shifted by:  (0, 0)
+data/3.jpg ssim Best score found:  -1.3635645653631352
+data/3.jpg ssim Green channel used as the base for alignment of image
+data/3.jpg ssim Blue channel shifted by:  (9, -3)
+data/3.jpg ssim Red channel shifted by:  (5, 2)
+data/4.jpg ssim Best score found:  -1.3717214806236835
+data/4.jpg ssim Green channel used as the base for alignment of image
+data/4.jpg ssim Blue channel shifted by:  (10, 0)
+data/4.jpg ssim Red channel shifted by:  (4, 1)
+data/5.jpg ssim Best score found:  -1.4769057150092544
+data/5.jpg ssim Green channel used as the base for alignment of image
+data/5.jpg ssim Blue channel shifted by:  (1, -2)
+data/5.jpg ssim Red channel shifted by:  (6, 1)
+data/6.jpg ssim Best score found:  -1.4132025766088958
+data/6.jpg ssim Green channel used as the base for alignment of image
+data/6.jpg ssim Blue channel shifted by:  (15, 0)
+data/6.jpg ssim Red channel shifted by:  (6, 1)
