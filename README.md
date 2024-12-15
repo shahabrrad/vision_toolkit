@@ -11,3 +11,7 @@ This project is designed to detect and visualize blobs in grayscale images using
 
 ### Stitching
 This project stitches two images together based on keypoint matching between two images. This can be used to create panoramic images from multiple images.
+
+### Shape from Shade
+A simple implementation of reconstructing shape from different shading. This implementation uses different integration methods that can be compared
+
