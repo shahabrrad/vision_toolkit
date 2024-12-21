@@ -15,3 +15,5 @@ This project stitches two images together based on keypoint matching between two
 ### Shape from Shade
 A simple implementation of reconstructing shape from different shading. This implementation uses different integration methods that can be compared
 
+### Structure from Motion
+Implementation of the Tomasi and Kanade affine structure from the motion method with Carlo Tomasi’s 101-frame hotel sequence.
